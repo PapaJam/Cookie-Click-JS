@@ -1,0 +1,5 @@
+function click( )
+{
+document.getElementById("bigCookie").click();
+}
+setInterval("click()", .1);
